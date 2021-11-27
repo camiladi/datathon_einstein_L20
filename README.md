@@ -7,4 +7,6 @@
 ## > Aqui no GITHUB estão disponíveis os cadernos .ipynb para abaixar e reproduzir nossos resultados.
 
 - Além disso, o diretório do drive está compartilhado com (eventos@eretz.bio.br) também!
+- LINK DO GOOGLE DRIVE: https://drive.google.com/drive/folders/18MhTiFtdvGoLMpJVs3HiSgCGMtPcbhq7?usp=sharing
+- 
 - Qualquer dúvida só nos acionar em: camilasnto@gmail.com
