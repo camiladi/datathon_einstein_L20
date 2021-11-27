@@ -1,7 +1,7 @@
 # DATATHON EINSTEIN PARA DERMATITE ATÓPICA
 
 - VIDEO DE APRESENTAÇÃO DO DATATHON: https://drive.google.com/file/d/1vYGujsQFhicuFciFyYMpGviH-u9uRjGN/view
-- 
+
 - DISCLAIMER das bases de dados: Utilizamos apenas as bases fornecidas pela equipe ertetz.bio - disponíveis no S3 da amazon. Não baixamos quaisquer outras para fazer as análises deste desafio.
 
 # ![diretorio_einstein_drive](https://user-images.githubusercontent.com/9562943/143662397-cdf0fea4-6450-4143-b8dc-37e1b108a41d.png)
